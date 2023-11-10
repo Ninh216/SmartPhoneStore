@@ -1,0 +1,12 @@
+Cài đặt xampp
+chạy phpmyadmin
+Chạy nhập file smartphone.sql
+
+Đăng nhập với quyền quản trị bằng tài khoản hoặc quyền người dùng
+	Tên tài khoản:ninh
+	Mật khẩu:1234
+
+
+
+
+tk momo test:	NGUYEN VAN A	9704 0000 0000 0018 03 / 07 sdt:0917003003 otp
